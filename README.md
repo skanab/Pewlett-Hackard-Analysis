@@ -6,7 +6,10 @@ Pewlett Hachard has hired Bobby to deploy an early Silver Tsunami warning system
 
 ## Amplitude of the Silver Tsunami
 
-Thirty percent,90,398, of Pewlett's employees between the ages of 65 and 68 are ready to retire. This potential talent drain is a real threat to Pewlett's business.
+Thirty percent,90,398, of Pewlett's employees between the ages of 65 and 68 are ready to retire. This potential senior talent drain is a real threat to Pewlett's business. 
+
+
+![Silver Tsunami](https://github.com/skanab/Pewlett-Hackard-Analysis/blob/main/Summary_Count.PNG?raw=true)
 
 One thousand five hundred forty-nine employees aged 55 have been identified as potential mentors to train new hires. 
 
